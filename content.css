@@ -1,0 +1,104 @@
+
+
+
+
+.navbar{
+    background-color: rgb(83, 7, 182);
+    width: 100%;
+    height: 70px;
+    border-radius: 12px 12px 0px 0px;
+    
+   
+    }
+.sidebar{
+    background-color: rgb(75, 172, 211);
+    width: 300px;
+    height: 900px;
+    border-radius: 0px 0px 0px 12px;
+    margin-top: -12px;
+}
+.bod{
+    background-color: rgb(195, 201, 206);
+    width: 1045px;
+    height: 780px;
+    margin-left: 300px;
+    margin-top: -900px;
+}
+
+.footer{
+    background-color: black;
+    width:1050px;
+    height: 120px;
+   margin-left: 300px;
+    margin-top: -3px;
+    
+    
+}
+
+.navbar a{
+   color: white;
+   font-size: 40px;
+   text-decoration: none;
+   margin: 10px;
+}
+.sidebar ul li{
+    list-style: none;
+    margin: 20px;
+    margin-top: 6px;
+}
+
+.sidebar a{
+    color: white;
+    font-size: 28px;
+    text-decoration: none;
+ padding: 15px;
+    
+}
+
+.footer{
+    color: white;
+    text-align: center;
+    
+}
+.rigth img{
+    grid: column;
+    width: 30px;
+    float: left;
+    padding: 10px;
+
+}
+
+.left img{
+    grid: column;
+    width: 30px;
+    float: right;
+    padding: 10px;
+    
+ 
+}
+.pic2{
+    margin-left: 410px;
+    margin-top: -715px;
+}
+
+.pic3{
+    margin-left: 410px;
+    margin-top: 80px;
+}
+.cont{
+    margin-left: 600px;
+    
+
+}
+.cont,h1{
+font-size: 40px;
+
+}
+
+ 
+.navbar a:hover,.navbar a:active{
+    font-size: 200%;
+}
+.sidebar a:hover,.sidebar a:active{
+    font-size: 40px;
+}
